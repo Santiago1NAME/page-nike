@@ -1,0 +1,26 @@
+
+.team-company{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.team{
+    padding-top: var(--marginElementos);
+}
+
+.person-img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.person{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: 300;
+}

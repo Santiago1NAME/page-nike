@@ -1,0 +1,18 @@
+/* Pie de pagina */
+footer .title-section,
+footer .copy{
+    color: white;
+}
+
+.social-media{
+    padding-top: var(--marginElementos);
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.social-media i{
+    font-size: 40px;
+    color: white;
+}
