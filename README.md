@@ -1,15 +1,13 @@
-# Nike website
+# Sitio web de Nike
 
-This is a small website with Angular focused on Nike brand advertising.
+Se trata de una pequeña web responsiva con Angular enfocada a la marca Nike.
 
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) versión 13.2.1.
 
-## Development server
+## Carpeta node_modules
+Ejecutar `ng install` para generar la carpeta de librerías.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Folder node_modules
-
-Run `ng install` to generate the library folder.
+## Servidor de desarrollo
+Ejecuta `npm start` para un servidor de desarrollo. la aplicación estara disponible en la url `http://localhost:4200/`.
